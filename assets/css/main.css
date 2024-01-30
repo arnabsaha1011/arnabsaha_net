@@ -57,6 +57,12 @@ svg,img { max-width: 100%; height: auto; }
 .ds-numbervalulist li:last-child{ margin-right: 0; }
 .ds-numbervalulist strong{ display: block; color: #F26464; font-size: 36px; font-weight: 800; }
 .ds-numbervalulist span{ font-size: 16px; letter-spacing: 1px; }
+.ds-company-logos { list-style: none; display: flex; align-items: center; flex-wrap: wrap; margin: 0; padding: 0; gap: 25px; }
+.ds-company-logos li { display: flex; margin-top: 60px; }
+.ds-company-logos img { max-width: 200px; height: auto; display: block; }
+.ds-company-logos-second-row { list-style: none; display: flex; align-items: center; flex-wrap: wrap; margin: 0; padding: 0; gap: 25px; }
+.ds-company-logos-second-row li { display: flex; margin-top: 10px; }
+.ds-company-logos-second-row img { max-width: 200px; height: auto; display: block; }
 /*-----------------------------------------------------------------
   3. >>> About Style
 ----------------------------------------------------------------*/
